@@ -1,1 +1,0 @@
-docker run --privileged --rm -v "${PWD}:/root" -it remus
